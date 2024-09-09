@@ -1,0 +1,12 @@
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Domain\bin\Debug\net8.0\DapperPractice.Domain.deps.json
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Domain\bin\Debug\net8.0\DapperPractice.Domain.dll
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Domain\bin\Debug\net8.0\DapperPractice.Domain.pdb
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Domain\obj\Debug\net8.0\DapperPractice.Domain.csproj.AssemblyReference.cache
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Domain\obj\Debug\net8.0\DapperPractice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Domain\obj\Debug\net8.0\DapperPractice.Domain.AssemblyInfoInputs.cache
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Domain\obj\Debug\net8.0\DapperPractice.Domain.AssemblyInfo.cs
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Domain\obj\Debug\net8.0\DapperPractice.Domain.csproj.CoreCompileInputs.cache
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Domain\obj\Debug\net8.0\DapperPractice.Domain.dll
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Domain\obj\Debug\net8.0\refint\DapperPractice.Domain.dll
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Domain\obj\Debug\net8.0\DapperPractice.Domain.pdb
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Domain\obj\Debug\net8.0\ref\DapperPractice.Domain.dll

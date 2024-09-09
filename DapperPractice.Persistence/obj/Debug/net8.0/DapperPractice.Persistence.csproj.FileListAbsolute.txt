@@ -1,0 +1,15 @@
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Persistence\bin\Debug\net8.0\DapperPractice.Persistence.deps.json
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Persistence\bin\Debug\net8.0\DapperPractice.Persistence.dll
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Persistence\bin\Debug\net8.0\DapperPractice.Persistence.pdb
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Persistence\bin\Debug\net8.0\DapperPractice.Domain.dll
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Persistence\bin\Debug\net8.0\DapperPractice.Domain.pdb
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Persistence\obj\Debug\net8.0\DapperPractice.Persistence.csproj.AssemblyReference.cache
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Persistence\obj\Debug\net8.0\DapperPractice.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Persistence\obj\Debug\net8.0\DapperPractice.Persistence.AssemblyInfoInputs.cache
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Persistence\obj\Debug\net8.0\DapperPractice.Persistence.AssemblyInfo.cs
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Persistence\obj\Debug\net8.0\DapperPractice.Persistence.csproj.CoreCompileInputs.cache
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Persistence\obj\Debug\net8.0\DapperPr.C9BAE709.Up2Date
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Persistence\obj\Debug\net8.0\DapperPractice.Persistence.dll
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Persistence\obj\Debug\net8.0\refint\DapperPractice.Persistence.dll
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Persistence\obj\Debug\net8.0\DapperPractice.Persistence.pdb
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Persistence\obj\Debug\net8.0\ref\DapperPractice.Persistence.dll

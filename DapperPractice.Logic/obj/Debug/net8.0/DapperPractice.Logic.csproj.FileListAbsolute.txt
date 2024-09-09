@@ -1,0 +1,17 @@
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Logic\bin\Debug\net8.0\DapperPractice.Logic.deps.json
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Logic\bin\Debug\net8.0\DapperPractice.Logic.dll
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Logic\bin\Debug\net8.0\DapperPractice.Logic.pdb
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Logic\bin\Debug\net8.0\DapperPractice.Domain.dll
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Logic\bin\Debug\net8.0\DapperPractice.Persistence.dll
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Logic\bin\Debug\net8.0\DapperPractice.Domain.pdb
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Logic\bin\Debug\net8.0\DapperPractice.Persistence.pdb
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Logic\obj\Debug\net8.0\DapperPractice.Logic.csproj.AssemblyReference.cache
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Logic\obj\Debug\net8.0\DapperPractice.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Logic\obj\Debug\net8.0\DapperPractice.Logic.AssemblyInfoInputs.cache
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Logic\obj\Debug\net8.0\DapperPractice.Logic.AssemblyInfo.cs
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Logic\obj\Debug\net8.0\DapperPractice.Logic.csproj.CoreCompileInputs.cache
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Logic\obj\Debug\net8.0\DapperPr.F557546D.Up2Date
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Logic\obj\Debug\net8.0\DapperPractice.Logic.dll
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Logic\obj\Debug\net8.0\refint\DapperPractice.Logic.dll
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Logic\obj\Debug\net8.0\DapperPractice.Logic.pdb
+C:\ITProjects\.Net\DapperPractice\DapperPractice.Logic\obj\Debug\net8.0\ref\DapperPractice.Logic.dll
